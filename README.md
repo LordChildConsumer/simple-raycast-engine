@@ -9,4 +9,5 @@ I am currently working on refactoring the code. Once that is done I will be addi
 
 
 Here is what the engine currently looks like
+I created the illusion of lighting by simply making horizontal walls draw as a slightly darker shade of red
 [![imgur](https://i.imgur.com/9eYWVWy.gif)
