@@ -1,5 +1,17 @@
 # simple-raycast-engine
 
+
+---
+#### ==============================================================
+#### THIS REPO IS ABANDONED. DO NOT USE IT FOR ANYTHING.
+#### ALSO THE CODE FOR THE RAYCASTS NEVER EVEN UPLOADED LOL
+#### ==============================================================
+---
+
+
+
+
+
 [![forthebadge](badges/powered-by-shitty-code.svg)](https://forthebadge.com)
 [![forthebadge](badges/uses-monogame.svg)](https://forthebadge.com)
 
